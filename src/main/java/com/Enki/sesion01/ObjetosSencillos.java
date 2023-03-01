@@ -40,36 +40,9 @@ public class ObjetosSencillos {
                 Double doble = 12.3434343;
                 System.out.println(doble);
 
-                //Apocopes
-                int i = 1;
-                System.out.println(i);
-                i=i+1;
-                System.out.println(i);
-                //suma
-                i+=2;
-                System.out.println(i);
-                //resta
-                i-=2;
-                System.out.println(i);
-                //multiplicacion
-                i*=3;
-                System.out.println(i);
-                System.out.println("-------------------------------");
 
-                //incrementos y decrementos
-                i=3;
-                //pre incremento
-                ++i;
-                System.out.println(i);
-                //post incremento
-                i++;
-                System.out.println(i);
-                //pre decremento
-                --i;
-                System.out.println(i);
-                //post decremento
-                i--;
-                System.out.println(i);
+
+
 
 
 
