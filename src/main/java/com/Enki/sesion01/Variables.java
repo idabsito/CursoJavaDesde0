@@ -1,4 +1,4 @@
-package com.Enki;
+package com.Enki.sesion01;
 
 public class Variables {
     public static void main(String[] args) {
