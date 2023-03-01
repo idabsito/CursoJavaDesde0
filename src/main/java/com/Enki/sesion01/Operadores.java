@@ -54,7 +54,8 @@ public class Operadores {
 
         //Operadores de asignacion con operacion incluida
         //Apocopes
-        int i = 1;
+        i = 1;
+
         System.out.println(i);
         i=i+1;
         System.out.println(i);
@@ -67,9 +68,6 @@ public class Operadores {
         //multiplicacion
         i*=3;
         System.out.println(i);
-
-
-
 
     }
 }
