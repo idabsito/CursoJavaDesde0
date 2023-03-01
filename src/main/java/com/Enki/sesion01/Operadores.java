@@ -67,7 +67,6 @@ public class Operadores {
         //multiplicacion
         i*=3;
         System.out.println(i);
-        System.out.println("-------------------------------");
 
 
 
